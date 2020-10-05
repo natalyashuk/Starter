@@ -1,0 +1,13 @@
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.deps.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.runtimeconfig.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.runtimeconfig.dev.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\bin\Debug\netcoreapp3.1\Dop_Task_1.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.AssemblyInfo.cs
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 5\Lesson5_Dop_Task_1\Dop_Task_1\obj\Debug\netcoreapp3.1\Dop_Task_1.genruntimeconfig.cache

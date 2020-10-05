@@ -1,0 +1,39 @@
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.exe
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.deps.json
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.json
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.dev.json
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csprojAssemblyReference.cache
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfo.cs
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\source\repos\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.genruntimeconfig.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.deps.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.dev.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfo.cs
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.genruntimeconfig.cache
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.exe
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.deps.json
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.json
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.runtimeconfig.dev.json
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\bin\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.AssemblyInfo.cs
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.dll
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.pdb
+C:\Users\ІТ-С\Desktop\SCharp\Урок_3\Lesson3_Ind\IndTask\obj\Debug\netcoreapp3.1\IndTask.genruntimeconfig.cache

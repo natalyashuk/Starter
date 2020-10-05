@@ -1,0 +1,13 @@
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.deps.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.runtimeconfig.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.runtimeconfig.dev.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\bin\Debug\netcoreapp3.1\DopTask.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.AssemblyInfo.cs
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Lesson4_DopTask\DopTask\obj\Debug\netcoreapp3.1\DopTask.genruntimeconfig.cache

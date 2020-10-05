@@ -1,0 +1,10 @@
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\bin\Debug\MyVariable.exe.config
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\bin\Debug\MyVariable.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\bin\Debug\MyVariable.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.Form1.resources
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.Properties.Resources.resources
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.csproj.GenerateResource.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Video_2\MyVariable\obj\Debug\MyVariable.pdb

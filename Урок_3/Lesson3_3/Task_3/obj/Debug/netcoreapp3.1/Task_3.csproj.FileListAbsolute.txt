@@ -1,0 +1,26 @@
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.exe
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.deps.json
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.json
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.dev.json
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.csprojAssemblyReference.cache
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfo.cs
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\ІТ-С\source\repos\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.genruntimeconfig.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.exe
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.deps.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.dev.json
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\bin\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfo.cs
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Видео 3\Lesson3_3\Task_3\obj\Debug\netcoreapp3.1\Task_3.genruntimeconfig.cache

@@ -1,6 +1,1 @@
-# cSharpStarterSolutionRepositoryStarterPack
-
-
-hsdhgljl;gk
-dkjkdj'
-ksjfkjlkfj
+1
