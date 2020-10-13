@@ -16,7 +16,7 @@ namespace Task_4
             Console.WriteLine("Введите сумму заработной платы");
             salary = Convert.ToDouble (Console.ReadLine());
 
-            if (years > 0 && years < 5)
+            if (years >= 0 && years < 5)
             {
                 prize = salary * 0.1;
                 Console.WriteLine("Сума премии: {0}", prize);
@@ -51,7 +51,7 @@ namespace Task_4
                 prize = salary * 0.5;
                 Console.WriteLine("Сумма премии: {0}", prize);
             }
-            else if (years <= 0)
+            else if (years < 0)
             {
                 Console.WriteLine("Недопустимое значение выслуги годов: Премия не полагается");
             }
