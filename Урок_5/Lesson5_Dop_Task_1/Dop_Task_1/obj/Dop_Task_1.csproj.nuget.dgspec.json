@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj": {}
+    "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj": {
+    "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj",
+        "projectUniqueName": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj",
         "projectName": "Dop_Task_1",
-        "projectPath": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj",
+        "projectPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\Dop_Task_1.csproj",
         "packagesPath": "C:\\Users\\ІТ-С\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\obj\\",
+        "outputPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_5\\Lesson5_Dop_Task_1\\Dop_Task_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

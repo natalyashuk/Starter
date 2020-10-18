@@ -10,7 +10,6 @@ namespace Task_4
             byte R = 18, //радиус циилиндра
                  h = 12; //высота цилиндра
             const float pi = 3.141f;
-            byte x = 2;
             int sum = R + h;
             double V = (pi * R * R * h);
             double S = (2 * pi * R * sum);

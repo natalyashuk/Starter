@@ -10,7 +10,7 @@ namespace Task1
            
             Console.WriteLine("Пожалуйста, введите знак арифметической операции :");
             string sigh = Console.ReadLine();
-            double result = 0;
+            double result;
 
             switch (sigh)
             {

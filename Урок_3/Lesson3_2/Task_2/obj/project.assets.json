@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ІТ-С\\Documents\\Наташа-Програміст\\Решения\\Видео 3\\Lesson3_2\\Task_2\\Task_2.csproj",
+      "projectUniqueName": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_3\\Lesson3_2\\Task_2\\Task_2.csproj",
       "projectName": "Task_2",
-      "projectPath": "C:\\Users\\ІТ-С\\Documents\\Наташа-Програміст\\Решения\\Видео 3\\Lesson3_2\\Task_2\\Task_2.csproj",
+      "projectPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_3\\Lesson3_2\\Task_2\\Task_2.csproj",
       "packagesPath": "C:\\Users\\ІТ-С\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ІТ-С\\Documents\\Наташа-Програміст\\Решения\\Видео 3\\Lesson3_2\\Task_2\\obj\\",
+      "outputPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_3\\Lesson3_2\\Task_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
