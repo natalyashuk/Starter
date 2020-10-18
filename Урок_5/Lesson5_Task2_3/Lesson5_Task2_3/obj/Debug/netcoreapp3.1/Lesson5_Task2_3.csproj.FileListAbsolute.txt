@@ -1,0 +1,13 @@
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.exe
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.deps.json
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.runtimeconfig.json
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.runtimeconfig.dev.json
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\bin\Debug\netcoreapp3.1\Lesson5_Task2_3.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.AssemblyInfo.cs
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_5\Lesson5_Task2_3\Lesson5_Task2_3\obj\Debug\netcoreapp3.1\Lesson5_Task2_3.genruntimeconfig.cache
