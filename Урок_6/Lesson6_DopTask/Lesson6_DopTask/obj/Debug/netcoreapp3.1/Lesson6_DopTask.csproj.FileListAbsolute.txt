@@ -1,0 +1,13 @@
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.AssemblyInfo.cs
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.exe
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.deps.json
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.runtimeconfig.json
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.runtimeconfig.dev.json
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\bin\Debug\netcoreapp3.1\Lesson6_DopTask.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_6\Lesson6_DopTask\Lesson6_DopTask\obj\Debug\netcoreapp3.1\Lesson6_DopTask.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace Lesson5_Task_2_4
         static void Main(string[] args)
         {
             Console.WriteLine("Введите число");
-            int a = Convert.ToInt16(Console.ReadLine());
+            int a = Convert.ToInt32(Console.ReadLine());
             int result = (byte)(a & 1);
 
             if (result == 0)
@@ -18,7 +18,7 @@ namespace Lesson5_Task_2_4
             {
                 Console.WriteLine("Вы ввели нечетное число");
             }
-
+             
             Console.ReadKey();
         }
     }

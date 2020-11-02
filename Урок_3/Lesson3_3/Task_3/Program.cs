@@ -9,7 +9,7 @@ namespace Task_3
              //Вариант 1
             byte r = 20, c = 2;
             const float pi = 3.141f;
-            double result = pi * (Math.Pow(15,2));
+            double result = pi * (Math.Pow(r,c));
             Console.WriteLine("Площадь круга = {0}", result);
             Console.ReadKey();
 

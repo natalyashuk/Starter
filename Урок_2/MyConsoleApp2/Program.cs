@@ -6,8 +6,8 @@ namespace MyConsoleApp2
     {
         static void Main(string[] args)
         {
-            Double pi = 3.141592653;
-            Decimal e = 2.7182818284590452M;
+            double pi = 3.141592653d;
+            decimal e = 2.7182818284590452m;
             Console.WriteLine("Значение переменной = " +pi);
             Console.WriteLine("Значение переменной = " +e);
             Console.ReadKey();

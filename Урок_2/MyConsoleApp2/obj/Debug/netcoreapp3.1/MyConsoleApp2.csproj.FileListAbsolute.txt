@@ -24,3 +24,16 @@ C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Vide
 C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Video_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.dll
 C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Video_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.pdb
 C:\Users\ІТ-С\Documents\Наташа-Програміст\Решения\Video_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.genruntimeconfig.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.exe
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.deps.json
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.runtimeconfig.json
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.runtimeconfig.dev.json
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\bin\Debug\netcoreapp3.1\MyConsoleApp2.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.csprojAssemblyReference.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.AssemblyInfo.cs
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.dll
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.pdb
+C:\Users\ІТ-С\Desktop\starter\Урок_2\MyConsoleApp2\obj\Debug\netcoreapp3.1\MyConsoleApp2.genruntimeconfig.cache

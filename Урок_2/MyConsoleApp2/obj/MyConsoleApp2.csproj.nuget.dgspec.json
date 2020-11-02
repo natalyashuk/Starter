@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj": {}
+    "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj": {
+    "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj",
         "projectName": "MyConsoleApp2",
-        "projectPath": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_2\\MyConsoleApp2\\MyConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\ІТ-С\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ІТ-С\\Desktop\\SCharp\\Урок_2\\MyConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\ІТ-С\\Desktop\\starter\\Урок_2\\MyConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
